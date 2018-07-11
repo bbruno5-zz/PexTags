@@ -1,0 +1,6 @@
+main: com.b5team.pextags.Main
+name: PexTags
+version: 1.0
+author: bbruno5
+description: Sets player tags and tags on tablist
+depend: [PermissionsEx, NametagEdit]
