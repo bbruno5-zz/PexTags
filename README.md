@@ -1,4 +1,4 @@
-# PexTags for Bukkit/Spigot 1.8/1.9/1.10/1.11/1.12/1.13
+# PexTags for Bukkit/Spigot 1.8/1.9/1.10/1.11/1.12
 
 # ABOUT
 This plugin was made to show player tags (prefixes and suffixes), pre-configured at PermissionsEx, with a engine fully asynchronous, priming for estability, velocity and avoiding lag.
@@ -14,6 +14,9 @@ This plugin was made to show player tags (prefixes and suffixes), pre-configured
 - 100% PEX compatible;
 - Fully compatible with prefix/suffix real-time customizations;
 - 16 characters for each one, prefix and suffix.
+
+# DOWNLOAD
+The latest compiled version can be found on the following link: https://www.spigotmc.org/resources/pextags.58651/
 
 # INSTALL
 First of all install and configure PermissionsEx. In a second moment, install and configure NametagEdit. Then, download and put the file PexTags.jar into your plugins folder and then, restart your server.
